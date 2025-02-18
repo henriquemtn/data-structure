@@ -33,6 +33,3 @@ Practicing-Data-Structure/
 
 ## 📌 Contribution
 If you want to contribute with improvements or add more algorithms, feel free to open a PR! 🚀
-
-## 📜 License
-This project is under the MIT License - see the [LICENSE](LICENSE) file for more details.
